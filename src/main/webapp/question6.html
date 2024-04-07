@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loan Application Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        form {
+            width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"], input[type="number"], textarea, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            padding: 10px;
+            border: none;
+            color: white;
+            background-color: #007BFF;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+<h2>Loan Application Form</h2>
+<form action="LoanApplicationServlet" method="post">
+    <label for="applicantName">Applicant Name:</label><br>
+    <input type="text" id="applicantName" name="applicantName"><br><br>
+
+    <label for="emailId">Email ID:</label><br>
+    <input type="text" id="emailId" name="emailId"><br><br>
+
+    <label for="contactNumber">Contact Number:</label><br>
+    <input type="text" id="contactNumber" name="contactNumber"><br><br>
+
+    <label for="loanType">Loan Type:</label><br>
+    <select id="loanType" name="loanType">
+        <option value="Personal">Personal Loan</option>
+        <option value="Home">Home Loan</option>
+        <option value="Car">Car Loan</option>
+    </select><br><br>
+
+    <label for="loanTenure">Loan Tenure (months):</label><br>
+    <input type="number" id="loanTenure" name="loanTenure"><br><br>
+
+    <label for="reasonForLoan">Reason for Loan:</label><br>
+    <textarea id="reasonForLoan" name="reasonForLoan"></textarea><br><br>
+
+    <label for="organizationName">Organization Name:</label><br>
+    <input type="text" id="organizationName" name="organizationName"><br><br>
+
+    <label for="designation">Designation:</label><br>
+    <input type="text" id="designation" name="designation"><br><br>
+
+    <label for="monthlySalary">Monthly Salary:</label><br>
+    <input type="number" id="monthlySalary" name="monthlySalary"><br><br>
+
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>

@@ -1,0 +1,24 @@
+
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8©Ø‰Ğë1J$ce64babe-6932-4161-9ef6-32ab5fadc5b0
+	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ªØ‰Ğë1J$2d0b3a17-ae3c-43ac-bb95-0593c0b333c2
+ˆ	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(´íˆÂ8«Ø‰Ğë1J$9b7cdc2b-2f1c-46cc-9d00-68fdc7f33adc
+•
+java:S1104"RMake dbName a static final constant or non-public and provide accessors if needed.(ˆı”ã8¬Ø‰Ğë1J$e92489e1-b28a-4429-8285-fffa8068aea7
+
+java:S1104"VMake dbUsername a static final constant or non-public and provide accessors if needed.(í”¬èúÿÿÿÿ8¬Ø‰Ğë1J$0faeb95a-9458-43bd-ab77-b55c3cee2492
+—
+java:S1104"UMake dbUserpwd a static final constant or non-public and provide accessors if needed.(©Ã28¬Ø‰Ğë1J$4e33a5b0-6d91-47e7-83cb-e37fcf13155d
+”
+java:S1104"QMake dbLoc a static final constant or non-public and provide accessors if needed.(½ğÂæ8¬Ø‰Ğë1J$c7dbcdb6-161c-420d-aacc-4dfbbbc4613b
+o
+java:S1444",Make this "public static dbName" field final(ˆı”ã8­Ø‰Ğë1J$00dd188e-58b1-4735-8ffe-d965b4d6da4a
+x
+java:S1444"0Make this "public static dbUsername" field final(í”¬èúÿÿÿÿ8®Ø‰Ğë1J$42c8bf73-c183-46c1-87de-8a9244b10cee
+q
+java:S1444"/Make this "public static dbUserpwd" field final(©Ã28®Ø‰Ğë1J$6e742173-5356-4bfb-aa75-34b9127fb0d4
+n
+java:S1444"+Make this "public static dbLoc" field final(½ğÂæ8®Ø‰Ğë1J$0fcc4f00-4548-475c-803f-3b5339e5d4eb
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ˆÃƒòøÿÿÿÿ8ÇØ‰Ğë1J$650faee2-fa1a-4cac-9f81-3c4d9cd57ba7
+p
+java:S49250"-Remove this "Class.forName()", it is useless.(ùíÄé8ÕØ‰Ğë1J$3731e90e-b617-49e1-a538-a6fa368c9f67

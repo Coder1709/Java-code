@@ -1,0 +1,19 @@
+
+‘
+java:S1192"IDefine a constant instead of duplicating this literal "password" 4 times.(…ˆíİşÿÿÿÿ8÷½ÏÎë1J$601bd01b-e882-4b56-a15f-f19d82d68edc
+‰
+java:S1192"FDefine a constant instead of duplicating this literal "email" 3 times.(×Áâ¹8ø½ÏÎë1J$c601d676-61a9-4c8f-9b56-768967193336
+
+java:S2589/"7Remove this expression which always evaluates to "true"(¤óµıÿÿÿÿ8ó¾ÏÎë1J$a0cba062-d432-49d6-80ed-9cfb058631bf
+
+java:S2589/"7Remove this expression which always evaluates to "true"(¤óµıÿÿÿÿ8ò¾ÏÎë1J$4ac7b32d-46c2-4493-bc9e-ed20cd1cfc71
+
+java:S2589E"7Remove this expression which always evaluates to "true"(ì“‰ûÿÿÿÿ8ó¾ÏÎë1J$f8e6c4d3-cf4e-4996-8caa-0d9da71428f8
+¡
+java:S1450"^Remove the "userCredentials" field and declare it as a local variable in the relevant methods.(«ä­€8ù¾ÏÎë1J$72dc9ec8-965b-4b42-85b1-6233bfd29e79
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Û‹¡úÿÿÿÿ8Š¿ÏÎë1J$1d135711-d2e0-4817-bdad-e5534bb5f07f
+
+java:S1764/"ECorrect one of the identical sub-expressions on both sides of equals.(¤óµıÿÿÿÿ8–¿ÏÎë1J$05d456d1-4805-44bd-9c2f-a8994b42ffd3
+
+java:S1764/"ECorrect one of the identical sub-expressions on both sides of equals.(¤óµıÿÿÿÿ8˜¿ÏÎë1J$f6b761d3-cd4a-4973-b7de-4ad47c15c3f2

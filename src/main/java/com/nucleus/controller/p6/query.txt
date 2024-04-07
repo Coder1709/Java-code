@@ -1,0 +1,11 @@
+CREATE TABLE LoanApplications (
+    applicantName VARCHAR(100),
+    emailId VARCHAR(100),
+    contactNumber VARCHAR(20),
+    loanType VARCHAR(50),
+    loanTenure INT,
+    reasonForLoan VARCHAR(255),
+    organizationName VARCHAR(100),
+    designation VARCHAR(100),
+    monthlySalary DECIMAL(10, 2)
+);
